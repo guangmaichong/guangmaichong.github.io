@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>光脉冲</title>
   
-  
+  <subtitle>光脉冲</subtitle>
   <link href="http://guangmaichong.github.io/atom.xml" rel="self"/>
   
   <link href="http://guangmaichong.github.io/"/>
@@ -42,7 +42,7 @@
     <link href="http://guangmaichong.github.io/2021/06/10/ceshi/"/>
     <id>http://guangmaichong.github.io/2021/06/10/ceshi/</id>
     <published>2021-06-10T08:35:20.000Z</published>
-    <updated>2022-05-30T15:44:56.066Z</updated>
+    <updated>2022-05-30T21:24:56.520Z</updated>
     
     
       
@@ -50,7 +50,7 @@
         
         
     <summary type="html">&lt;p&gt;这是一篇测试文章&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/.io//ceshi.png&quot;</summary>
+&lt;img src=&quot;/2021/06/10/ceshi/ceshi.png&quot; class=&quot;&quot;</summary>
         
       
     
